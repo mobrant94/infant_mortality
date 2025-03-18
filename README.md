@@ -1,6 +1,6 @@
-# Repositório destinado a apresentar as informações referente ao estudo COMPREENDENDO AS DISPARIDADES REGIONAIS E SOCIOECONÔMICAS NA MORTALIDADE INFANTIL BRASILEIRA
+# Repositório destinado a apresentar as informações referente ao estudo Desaceleração na redução da mortalidade em crianças menores de cinco anos: Evidências de estagnação em regiões desenvolvidas do Brasil
 
-Bem-vindo ao repositório do estudo "COMPREENDENDO AS DISPARIDADES REGIONAIS E SOCIOECONÔMICAS NA MORTALIDADE INFANTIL BRASILEIRA". 
+Bem-vindo!
 Este repositório foi desenvolvido para facilitar a análise e visualização de dados relacionados ao estudo, com foco em compreender e reduzir as desigualdades na mortalidade infantil no Brasil.
 
 ## Conteúdo do Repositório
